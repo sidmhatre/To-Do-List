@@ -15,6 +15,7 @@
 		1FD3DAE51E9F60AC00D6533C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FD3DAE31E9F60AC00D6533C /* LaunchScreen.storyboard */; };
 		1FD3DAF01E9F60AC00D6533C /* To_Do_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD3DAEF1E9F60AC00D6533C /* To_Do_ListTests.swift */; };
 		1FD3DAFB1E9F60AC00D6533C /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD3DAFA1E9F60AC00D6533C /* To_Do_ListUITests.swift */; };
+		1FD3DB0B1E9FE26A00D6533C /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD3DB0A1E9FE26A00D6533C /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1FD3DAF61E9F60AC00D6533C /* To Do ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "To Do ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FD3DAFA1E9F60AC00D6533C /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		1FD3DAFC1E9F60AC00D6533C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FD3DB0A1E9FE26A00D6533C /* TaskManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1FD3DAD81E9F60AC00D6533C /* AppDelegate.swift */,
 				1FD3DADA1E9F60AC00D6533C /* FirstViewController.swift */,
 				1FD3DADC1E9F60AC00D6533C /* SecondViewController.swift */,
+				1FD3DB0A1E9FE26A00D6533C /* TaskManager.swift */,
 				1FD3DADE1E9F60AC00D6533C /* Main.storyboard */,
 				1FD3DAE11E9F60AC00D6533C /* Assets.xcassets */,
 				1FD3DAE31E9F60AC00D6533C /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				1FD3DADD1E9F60AC00D6533C /* SecondViewController.swift in Sources */,
 				1FD3DAD91E9F60AC00D6533C /* AppDelegate.swift in Sources */,
+				1FD3DB0B1E9FE26A00D6533C /* TaskManager.swift in Sources */,
 				1FD3DADB1E9F60AC00D6533C /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
